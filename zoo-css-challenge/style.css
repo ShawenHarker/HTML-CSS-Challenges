@@ -75,9 +75,6 @@ footer {
   justify-content: space-between;
 }
 
-.introduction {
-}
-
 #badge {
   height: 120px;
   width: 120px;
@@ -115,6 +112,11 @@ footer {
 .tigers {
   background-color: #0b3c49;
   color: #f0e100;
+}
+
+.tigers h2,
+.tigers h3 {
+  color: #8f871d;
 }
 
 .giraffe {
